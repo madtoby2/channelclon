@@ -1,5 +1,7 @@
 # ChannelClon — Telegram Channel Forwarder Bot
 
+[中文文档 🇨🇳](README_CN.md)
+
 Automatically forward messages from one Telegram channel to another, with media preservation, filtering, and comment forwarding.
 
 ## Features
@@ -95,6 +97,12 @@ Send `/start` to your bot to see the control panel.
 4. **Media groups** are handled atomically — all photos/videos in an album are sent together
 5. **Auto-forward** runs on a cron-like timer, checking for new messages
 6. **Filters** are applied before forwarding: blocked extensions, keywords, date ranges
+
+---
+
+### 🔗 [云码台 — yunmatai.xyz](https://yunmatai.xyz)
+
+Global SMS verification platform — 200+ countries, hundreds of services (Telegram, OpenAI, Google, etc.). Pay-per-use, auto-refill, WeChat/Alipay. Perfect companion for Telegram account automation.
 
 ## License
 
