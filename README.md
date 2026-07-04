@@ -98,4 +98,4 @@ Send `/start` to your bot to see the control panel.
 
 ## License
 
-MIT
+AGPL-3.0
