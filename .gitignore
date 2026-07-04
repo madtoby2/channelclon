@@ -1,0 +1,9 @@
+# Secrets
+.env
+fwd_config.json
+*.session
+
+# Temp
+__pycache__/
+*.pyc
+/tmp/
